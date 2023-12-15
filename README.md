@@ -8,17 +8,17 @@ Vi valde att planera ut hur vår tid skulle användas, själva projektets proces
 Under tiden vi skrivit och spånat så har vi suttit i Discord och konverserat.
 
 ## Decomposition
-Vi följde instruktionerna som vi fått, bryta ner sidan i mindre och mindre sektioner.
+Vi följde instruktionerna som vi fått, att bryta ner sidan i mindre och mindre sektioner.
 
-Vi vet inte om man ska göra det på något annat sätt, men det blev enklare och tydligare att se vart saker är i en trädstruktur.
+Det finns möjligen andra sätt att utföra uppgiften på, men det blev enklare och tydligare att se vart saker är i en trädstruktur.
 
 ## Pattern Recognition
-Vi började jämföra vad som är lika varandra, använde färgkoder för att enkelt se hur många olika "delar" hemsidan bestod av.
+Inledningsvis så jämförde vi alla olika delar med varandra, använde färgkoder för att enkelt se hur många olika "unika" delar hemsidan bestod av.
 
-Började med fler uppdelningar, men märkte senare att olika saker hade fler gemensamma nämnare än vi trodde.
+Det började med fler uppdelningar, men det blev tydligt att olika saker hade fler gemensamma nämnare än vi trodde.
 
 ## Abstraction
-Svårt koncept att greppa, men vi började få förståelse mer för vad det betyder. När man började tänka på det så blev det väldigt tydligt hur man kan slå ihop fler saker till mer universella funktioner. Vi började med 3 olika slags knappar (En för pop up delar, en annan för addera till kaffelistan och en tredje till att förflytta sig mellan sidor), men då alla hade specifika delar som man kunde återanvända så kunde vi koka ner det till en "button".
+Svårt koncept att greppa, men vi började få förståelse mer för vad det betyder. När man började tänka på det så gick det upp hur man kan slå ihop fler saker till mer universella funktioner. Vi började med 3 olika slags knappar (En för pop up delar, en annan för addera till kaffelistan och en tredje till att förflytta sig mellan sidor), men då alla hade specifika delar som man kunde återanvända så kunde vi koka ner det till en "button".
 
 
 ## Algorithm Design
